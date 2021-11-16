@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 installation local dpkg et non rpm sous ubuntu
+=======
+installation distante: apt et pas yum sous Ubuntu
+>>>>>>> paquet_distant
 [
 aa-enabled
 aa-exec
